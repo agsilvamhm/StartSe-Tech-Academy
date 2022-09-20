@@ -1,0 +1,4 @@
+Módulo I - introdução, sistemas e aplicações.
+
+* Podemos dizer que protocolo de rede, é como uma linguagem, onde estes dispositivos irão conseguir se comunicar utilizando esta linguagem.
+
