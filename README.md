@@ -2,4 +2,5 @@
 ## Curso: Formação desenvolvedor fullstack júnior. Plataforma: StartSe 
 ![StartSe](https://github.com/agsilvamhm/StartSe-Tech-Academy/blob/main/imagens/Start-se.png)
 
-## Módulo I - Introdução, sistemas e aplicações.
+## Módulo I  - Introdução, sistemas e aplicações.
+## Módulo II - Linguagens de programação.
