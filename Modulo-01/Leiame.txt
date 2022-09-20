@@ -2,3 +2,31 @@ Módulo I - introdução, sistemas e aplicações.
 
 * Podemos dizer que protocolo de rede, é como uma linguagem, onde estes dispositivos irão conseguir se comunicar utilizando esta linguagem.
 
+* Aplicação Web, são aplicações onde você não precisa instalar nada no seu computador, só precisa do navegador e uma conexão de internet para executar a mesma.
+
+* Endpoints é o serviço exposto da api. O endpoint é a parte exporta da API
+
+* MVP - Produto mínimo viável
+
+* A essencia prática do desenvolvimento de software.
+- Compreenda o problema
+- Planeje a solução
+- Execute/leve adiante o plano
+- Examine o resultado 
+
+Os 7 princípios da engenharia de software.
+1 - Razão de existir - O software têm que agregar valor ao processo/aos seus usuários. Se manter simples também é um fator importante.
+
+2 - KISS (Keep It Simple Stupid!) - Manhtenha isto simples idiota.
+
+3 - Mantenha a visão - Seguir o projeto incial, caso contrário será fácil se perder.
+
+4 - O que um produz os outros consomem. O código que você construir será visualizado por outros programadores.
+
+5 - Esteja aberto para o futuro. alguns framworks utilizados podem mudar, o quão vai ser possível você reaproveitar ou migrar o que você fez?
+
+6 - Planeje com antecedência, visando a reutilização. 
+
+7 - Pense!
+
+

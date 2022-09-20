@@ -1,0 +1,7 @@
+Módulo II - Linguagens de programação.
+
+A linguagem de programação possui regras léxicas, regras de sintaxe e de semântica.
+
+* Léxico refere-se ao conjunto de palavras pertencentes a deteminada linguagem.
+
+* 
