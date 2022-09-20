@@ -2,6 +2,8 @@ Módulo II - Linguagens de programação.
 
 A linguagem de programação possui regras léxicas, regras de sintaxe e de semântica.
 
-* Léxico refere-se ao conjunto de palavras pertencentes a deteminada linguagem.
+* Léxico refere-se ao conjunto de palavras pertencentes a deteminada linguagem. Quando falar de léxica lembrar de dicionário.
 
-* 
+* Sintático referem-se ao conjunto de regras que determinam as diferentes possibilidades de associação das palavras. Nesta parte é verificada a estrutura da linguagem de programação.
+
+* Semântica refere-se ao significado das expressões. Nesta hora como exemplo é onde é checado uma comparação, tentar comparar um número com um texto irá gerar um erro semântico.
