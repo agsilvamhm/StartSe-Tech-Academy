@@ -15,3 +15,40 @@ Existe duas fases na compilação:
 Análise léxica, sintática e semantica.
 
 - Fase de sintese, otimização do código e geração do código final, e irá gerar o código de máquina.
+
++------------------------------------------------------------------------------------------+
+Como pesquisar erros/dúvidas de código no Google 
+
+O que fazer quando não encontrar a solução para um problema no google.
+
+#Dica 1 - Pesquise em inglês 
+
+#Dica 2 - Remova da busca qualquer palavras específicas do seu sistema 
+
+#Dica 3 - Adicionar o nome da biblioteca ou linguagem de programação no início da busca pode ajudar 
+
+#Dica 4 - Utilize aspas duplas para buscar o termo específico, removendo conteúdo similares
+
+#Dica 5 - Caso queira buscar em um site específico e este não tenha um sistema de busca, informe site:http://*************  termo
+
+#Dica 6 - Caso queira remover um termo específico da busca, utilize o hífen
+how manipulate html dom -jquery
+
+#Dica 7 - Podemos utilizar o before e especificar o ano para buscar conteúdos mais antigos
+javascript before:2021
+
+#Dica 8 - Podemos utilizar o after e especificar o ano para buscar conteúdos mais novos
+javascript after:2021
+
+#Dica 9 - Podemos utilizar o .. e para intervalos de datas
+es5 annotation 2008..2011
+
+#Dica 10 - Podemos utilizar o "|" para a comparação de tecnologias
+reactjs|vuejs|angular
+
+#Dica 11 - Podemos especificar o tipo de arquivo que estamos buscando
+texto da pesquisa filetype:pdf
+
+#Dica 12 - Podemos utilizar o related para encontrar termos relacionados ao que estamos buscando
+related:microserviços
+
