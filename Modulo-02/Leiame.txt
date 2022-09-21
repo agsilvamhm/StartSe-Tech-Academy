@@ -10,3 +10,8 @@ A linguagem de programação possui regras léxicas, regras de sintaxe e de sem�
 
 * Para trabalhar com uma linguagem de baixo nível, você terá que está programando para um hardware específico, ou seja, você terá que se preocupar com o hardware.
 
+Existe duas fases na compilação:
+- Fase de análise, divide o código e cria uma representação intermediária do mesmo.
+Análise léxica, sintática e semantica.
+
+- Fase de sintese, otimização do código e geração do código final, e irá gerar o código de máquina.
