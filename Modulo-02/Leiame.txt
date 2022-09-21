@@ -7,3 +7,6 @@ A linguagem de programação possui regras léxicas, regras de sintaxe e de sem�
 * Sintático referem-se ao conjunto de regras que determinam as diferentes possibilidades de associação das palavras. Nesta parte é verificada a estrutura da linguagem de programação.
 
 * Semântica refere-se ao significado das expressões. Nesta hora como exemplo é onde é checado uma comparação, tentar comparar um número com um texto irá gerar um erro semântico.
+
+* Para trabalhar com uma linguagem de baixo nível, você terá que está programando para um hardware específico, ou seja, você terá que se preocupar com o hardware.
+
