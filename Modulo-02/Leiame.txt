@@ -52,3 +52,14 @@ texto da pesquisa filetype:pdf
 #Dica 12 - Podemos utilizar o related para encontrar termos relacionados ao que estamos buscando
 related:microserviços
 
++-----------------------------------------------------------------------------------------------+
+
+Como pesquisar erros e dúvidas de código no stack overflow
+
++-----------------------------------------------------------------------------------------------+
+
+Site https://devdocs.io  - site que centraliza a documentação das ferramentas
+
++-----------------------------------------------------------------------------------------------+
+
+Editor online - https://jsfidlle.net
