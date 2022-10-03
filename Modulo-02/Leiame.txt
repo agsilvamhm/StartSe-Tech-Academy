@@ -62,4 +62,17 @@ Site https://devdocs.io  - site que centraliza a documentação das ferramentas
 
 +-----------------------------------------------------------------------------------------------+
 
-Editor online - https://jsfidlle.net
+Editor online - https://jsfidlle.net..
+
++-----------------------------------------------------------------------------------------------+
+Tags 
+
+<b></b>    -  Formata o texto para negrito, em um leitor de tela não demostra enfâse na leitura 
+<i></i>    -  Formata o texto para itálico, em um leitor de tela não demostra enfâse na leitura 
+<u></u>    -  Formata o texto como subrinhado 
+
+
+<strong></strong>  - Formata o texto para negrito, em um leitor de tela vai dá enfase na leitura 
+<em></em>          - Formata o texto para itálico, em um leitor de tela vai dá enfase na leitura 
+
+<q></q>            - Coloca o texto em aspas
