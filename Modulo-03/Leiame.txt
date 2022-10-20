@@ -8,4 +8,6 @@ Blocked elements = Ocupa toda a área do elemento pai
 Inline elements = Ocupa a sua área apenas
 
 A tag <br> quebra a linha para os elementos inline
+
+
     
